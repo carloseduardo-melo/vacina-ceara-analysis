@@ -53,10 +53,3 @@ O projeto segue um fluxo linear de dados dividido em três etapas críticas:
 | Correlação PIB x Doses | Top 10 Municípios |
 |:---:|:---:|
 | ![Correlação](images/grafico_correlacao_pib_doses.png) | ![Top 10](images/grafico_top10_municipios.png) |
-
-## 🚀 Como Executar
-
-1. **Clone o repositório:**
-```bash
-git clone [https://github.com/seu-usuario/vacina-ceara-analytics.git](https://github.com/seu-usuario/vacina-ceara-analytics.git)
-cd vacina-ceara-analytics
